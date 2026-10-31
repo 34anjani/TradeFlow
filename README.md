@@ -127,6 +127,6 @@ Swagger UI allows you to explore the endpoints, provide input, execute API reque
 
 ## 9. Additional Documentation
 
-- [Design Document](DESIGN.md) – Explains the system architecture, database design, business logic, cost-basis methods, and design decisions.
-- [Testing Results](results.md) – Contains automated and manual testing details.
-- [AI Usage](AI_USAGE.md) – Describes how AI tools were used during development.
+- Design Document – Explains the system architecture, database design, business logic, cost-basis methods, and design decisions.
+- Testing Results – Contains automated and manual testing details.
+- AI Usage] - Describes how AI tools were used during development.
